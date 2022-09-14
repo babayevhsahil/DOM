@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.p228 {
+    border-radius: 10px;
+    background-color: green;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 17px;
+    margin-top: 15px;
+}
+
+#todos{
+    border: 1px solid grey;
+    padding: 15px;
+}
+
+.box{
+    display: flex;
+    background-color: green;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    color: #fff;
+    border-radius: 10px;
+}
